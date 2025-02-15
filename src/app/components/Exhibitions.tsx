@@ -36,7 +36,7 @@ export default function Exhibitions() {
   return (
     <section id="exhibitions" className="py-16 bg-white">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-3xl font-bold mb-8 text-center">Aktualne Vystavy</h2>
+        <h2 className="text-3xl font-bold mb-8 text-black text-center">Aktualne Vystavy</h2>
         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
           {exhibitions.map((exhibition) => (
             // <Link href={`/exhibitions/${exhibition.id}`} key={exhibition.id} className="block">
@@ -51,7 +51,7 @@ export default function Exhibitions() {
                               height={150}
                               className="w-full h-48 object-cover"
                             />
-                <h3 className="text-xl font-semibold mb-2">{exhibition.title}</h3>
+                <h3 className="text-xl text-black font-semibold mb-2">{exhibition.title}</h3>
                 <p className="text-gray-600 mb-4">{exhibition.description}</p> 
                 <p className="text-sm text-gray-500">{exhibition.date}</p>
                 <p className="text-sm text-gray-500">{exhibition.venue}</p>

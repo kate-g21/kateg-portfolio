@@ -15,7 +15,7 @@ export default function About() {
             />
           </div>
           <div>
-            <h2 className="text-xl text-left font-bold mb-4">Životopis</h2>
+            <h2 className="text-xl text-black text-left font-bold mb-4">Životopis</h2>
             <p className="text-gray-600 mb-4">Som umelkyňa. Žijem v Bratislave a naplno sa venujem maľbe. </p>
             <p className="text-gray-600 mb-4">Maľujem od detstva a neviem si predstaviť život bez umenia. Pracujem s olejom, akvarelom, prípadne gvašom, olejovými pastelmi a zachytávam farebné prírodné scenérie i mestské zákutia. Veľa cestujem a neustále hľadám krásu. Snažím sa zachytiť jedinečné okamihy, a preto si so sebou vždy nosím farby a papier, aby som mohla tvoriť priamo v plenéri – v bezprostrednom kontakte s prírodou a svetom. </p>
             <p className="text-gray-600 mb-4">Mojím cieľom je inšpirovať ľudí, aby sa na svet pozerali inak – očami krásy a radosti.</p>

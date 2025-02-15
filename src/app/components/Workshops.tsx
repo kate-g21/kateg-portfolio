@@ -30,7 +30,7 @@ export default function Workshops() {
   return (
     <section id="workshops" className="py-16 bg-gray-50">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-3xl font-bold mb-8 text-center">Workshopy</h2>
+        <h2 className="text-3xl font-bold mb-8 text-black text-center">Workshopy</h2>
         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
           {workshops.map((workshop) => (
             <Link href={workshop.link} key={workshop.id}  passHref legacyBehavior className="block">
@@ -44,7 +44,7 @@ export default function Workshops() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-semibold mb-2">{workshop.title}</h3>
+                  <h3 className="text-xl text-black font-semibold mb-2">{workshop.title}</h3>
                   <p className="text-gray-600 mb-4">{workshop.description}</p>
                   <p className="text-sm text-gray-500">{workshop.date}</p>
                 </div>

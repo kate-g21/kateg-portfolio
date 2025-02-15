@@ -15,7 +15,7 @@ export default function Paintings() {
     <section id="paintings" className="py-16 bg-gray-50">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
       <Link href="https://SoulofEarth2111.etsy.com" passHref legacyBehavior>
-          <a target="_blank" rel="noopener noreferrer" className="text-3xl font-bold mb-8 text-center block">
+          <a target="_blank" rel="noopener noreferrer" className="text-3xl text-black font-bold mb-8 text-center block">
             Obrazy
           </a>
         </Link>
