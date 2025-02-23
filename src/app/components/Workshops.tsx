@@ -4,11 +4,11 @@ import Link from "next/link"
 const workshops = [
   {
     id: 1,
-    title: "Zážitkové maľovanie od profesionálnej maliarky",
-    description: "Naučíte sa základy miešania farieb a techniky maľovania. Vytvoríte si vlastné umelecké dielo pod mojim vedením. Všetky materiály budú k dispozícii (plátno, farby, štetcе a pod.). Príjemná atmosféra kaviarni a možnosť získať nové skúsenosti.",
-    image: "/IMG_3309.jpg",
-    date: "Februar 22 2025. 15:00",
-    link: "https://www.facebook.com/events/620700634230327/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22calendar_tab_event%22%2C%22surface%22%3A%22bookmark_calendar%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+    title: "Finisáž výstavy, workshop maľovania a oslava MDŽ s Kate Grishakovou",
+    description: "Srdečne Vás pozývam na oslavu Medzinárodného dňa žien (MDŽ) spojenú s finisážou mojej výstavy «Keď sa plnia sny»! Tešíme sa na príjemný večer plný tvorivosti, rozhovorov a spoločných zážitkov. Budeme maľovať, rozprávať sa a užívať si spoločne strávený čas. Telo aj dušu poteší občerstvenie a príjemná atmosféra. Príďte osláviť umenie a ženy spolu s nami!",
+    image: "/finisaz-workshop.png",
+    date: "Marec 8 2025. 15:00",
+    link: "https://www.facebook.com/events/1174164037384763?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22home%22%7D%2C%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
   },
 //   {
 //     id: 2,
