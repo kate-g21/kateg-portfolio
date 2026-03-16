@@ -29,7 +29,7 @@ export default function Footer() {
               </a>
             </Link>
           </div>
-          <p>&copy; 2025 Kate Grishakova. All rights reserved.</p>
+          <p>&copy; 2026 Kate Grishakova. All rights reserved.</p>
         </div>
       </div>
     </footer>
